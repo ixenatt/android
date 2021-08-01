@@ -2376,7 +2376,7 @@
 	<AppIcon name="com.lightricks.facetune.free/com.lightricks.facetune.SplashActivity" image="facetune" />
 	<AppIcon name="com.lightricks.facetune/com.lightricks.facetune.MainFragmentActivity" image="facetune" />
 	<AppIcon name="com.Likewise.apps.Likewise/com.Likewise.apps.MainActivity" image="likewise" />
-	<AppIcon name="com.limbo.emu.main/com.limbo.emu.main.LimboEmuActivity" image="limbo_emulator" />	
+	<AppIcon name="com.limbo.emu.main/com.limbo.emu.main.LimboEmuActivity" image="limbo_emulator" />
 	<AppIcon name="com.limebike/com.limebike.launcher.LauncherActivity" image="lime" />
 	<AppIcon name="com.linecorp.b612.android/com.linecorp.b612.android.activity.ActivityCamera" image="b_six_twelve" />
 	<AppIcon name="com.linecorp.foodcam.android/com.linecorp.foodcam.android.camera.CameraActivity" image="foodie" />
@@ -3138,7 +3138,7 @@
 	<AppIcon name="com.renfe.wsm/ticket.ui.splash.SplashActivity" image="renfe" />
 	<AppIcon name="com.resilio.sync/com.resilio.sync.ui.activity.StartActivity" image="resilio_sync" />
 	<AppIcon name="com.resonancelab.unrar/com.resonancelab.unrar.SimpleUnrarActivity" image="rar" />
-	<AppIcon name="com.retroarch.aarch64/com.retroarch.browser.mainmenu.MainMenuActivity" image="retroarch" />	
+	<AppIcon name="com.retroarch.aarch64/com.retroarch.browser.mainmenu.MainMenuActivity" image="retroarch" />
 	<AppIcon name="com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity" image="retroarch" />
 	<AppIcon name="com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity" image="revolut" />
 	<AppIcon name="com.Revsoft.Wabbitemu/com.Revsoft.Wabbitemu.activity.WabbitemuActivity" image="wabbitemu" />
@@ -5590,4 +5590,7 @@
 	<AppIcon name="ua.com.streamsoft.pingtoolspro/ua.com.streamsoft.pingtools.MainActivity_AA" image="pingtools_pro" />
 	<AppIcon name="com.coolkit/com.coolkit.MainActivity" image="ewelink" />
 	<AppIcon name="com.insideoutside.ihunteron/com.insideoutside.ihunter.iHunterActivity" image="ihunter" />
+	<AppIcon name="com.gpsmapcamera.geotagginglocationonphoto/com.gpsmapcamera.geotagginglocationonphoto.activity.Splash_Screen" image="gps_map_camera" />
+	<AppIcon name="com.blogspot.aeioulabs.barcode/com.blogspot.aeioulabs.barcode.ui.list.CodeListActivity_" image="barcode_generator" />
+	<AppIcon name="at.xylem.mapin/at.xylem.mapin.SplashScreenActivity" image="mapinr" />
 </Theme>
